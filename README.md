@@ -17,7 +17,7 @@ Apaixonado por criar soluções eficientes, automatizar processos e transformar 
 
 ### 💼 Experiência
 
-Atualmente atuo como **Software Developer na Autonomo**, onde foco no desenvolvimento de sistemas robustos e na implementação de soluções de automação para otimizar fluxos de trabalho.
+Atualmente atuo como **Software Developer na StateraTI**, onde foco no desenvolvimento de sistemas robustos e na implementação de soluções de automação para otimizar fluxos de trabalho.
 
 ---
 
