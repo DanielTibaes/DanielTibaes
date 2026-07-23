@@ -12,6 +12,7 @@ Desenvolvo soluções completas, transformando necessidades de negócio em aplic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Tibães-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/codedbydaniel-ios)
 [![Email](https://img.shields.io/badge/Email-daniel.tibaes%40outlook.com-EA4335?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:daniel.tibaes@outlook.com)
 
+
 </div>
 
 ---
