@@ -23,7 +23,7 @@ Sou desenvolvedor **Full Stack**, com experiência na criação de sistemas, aut
 Atuo em diferentes etapas do desenvolvimento de software, desde o entendimento das necessidades e definiçãdso da arquitetura até a implementação, implantação e manutenção das aplicações.
 
 * 🚀 Construindo e desenvolvendo a [ARK Solution](https://arksolution.com.br);
-* 💻 Desenvolvendo aplicações com **.NET, React e TypeScript**;
+* 💻 Desenvolvendo aplicações com **.NET, Python e React**;
 * ⚙️ Criando APIs, integrações e automações de processos;
 * 🐳 Trabalhando com Docker, Linux, Nginx e ambientes de produção;
 * 📚 Aprimorando continuamente meus conhecimentos em arquitetura e boas práticas;
