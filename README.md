@@ -2,7 +2,7 @@
 
 # Olá! Eu sou Daniel Tibães Nogueira 👋
 
-### Full Stack Developer | .NET · React · APIs · Automações · Arquitetura de Software
+### Full Stack Developer | .NET · Python · React · APIs · Automações · Arquitetura de Software
 
 Desenvolvo soluções completas, transformando necessidades de negócio em aplicações modernas, organizadas e eficientes.
 
