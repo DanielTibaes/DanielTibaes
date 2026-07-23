@@ -14,7 +14,6 @@ Desenvolvo soluções completas, transformando necessidades de negócio em aplic
 
 </div>
 
-
 ---
 
 ## 👨‍💻 Sobre mim
